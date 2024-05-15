@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { NavLink } from 'react-router-dom';
 
-// Define the Products component
 export default function Products() {
 
     // useEffect hook to load products once when the component mounts
