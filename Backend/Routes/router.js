@@ -1,4 +1,6 @@
 // Set up router from Express to handle route requests
+
+const express = require('express');
 const router = express.Router();
 
 // Include the Products model to interact with the MongoDB database
